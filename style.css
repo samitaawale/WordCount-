@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+input{
+    margin-top: 100px;
+    margin-left: 300px;
+    width: 350px;
+    height: 40px;
+    display: block;
+    padding-left: 400px;
+}
+
+#output{
+    margin-top: 45px;
+    width: 100px;
+    height: 20px;
+    background: lightblue;
+    margin-left: 400px;
+    font-weight: bold;
+}
+
+#btn{
+    width: 150px;
+    height: 50px;
+    margin-top: 80px;
+    margin-left: 600px;
+    cursor: pointer;
+    color: lightcyan;
+    background-color: darkcyan;
+    border-radius: 10px;
+    border-style: none;
+
+}
+
+h1{
+    text-align: center;
+    color: darkgray;
+    margin-top: 50px;
+    font-family: 'cursive';
+}
